@@ -57,7 +57,7 @@ policies.2
 sum(policies)
 [1] 206
 
-#adding data policies
+#adding data to policies
 policies <- c(policies, 41, 43, 42) #append values to policies
 policies
 [1] 32 40 33 39 26 36 41 43 42
